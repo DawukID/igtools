@@ -10,7 +10,7 @@ white='\e[1;37m'
 
 limit=100
 clear
-figlet InstagramCrack |lolcat
+figlet CrackIg |lolcat
 N -e $'''
 \033[1;37m============================================
  \033[1;37mCode:\033[1;36mFahmiApz
