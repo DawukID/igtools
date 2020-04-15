@@ -13,11 +13,10 @@ clear
 figlet InstagramCrack |lolcat
 N -e $'''
 \033[1;37m============================================
-           \033[1;37mCode:\033[1;36mFahmiApz
-           \033[1;37mYoutube:\033[1;36mApmzChannel
-           \033[1;37mGithub:\033[1;32mhttps://github.com/BangDanz
+ \033[1;37mCode:\033[1;36mFahmiApz
+ \033[1;37mYoutube:\033[1;36mApmzChannel
+ \033[1;37mGithub:\033[1;32mhttps://github.com/BangDanz
 \033[1;37m============================================
-\033[1;932
 \033[1;32m------------------------------------------'''
 python2 yt.py
 
