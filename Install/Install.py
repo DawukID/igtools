@@ -16,7 +16,7 @@ def babi(nob):
     sys.stdout.flush()
     time.sleep(0.1)
 
-babi('Selamat Datang di Tools baru Apmz Channel'.center(20))
+babi('Selamat Datang Di Tools Dawuk ID'.center(20))
 babi(' penginstallan bahan.....'.center(20))
 babi(' dimohon kepada user jangan meninggalkan'.center(20))
 babi(' terminal disaat penginstalan bahan'.center(20))
@@ -49,7 +49,7 @@ os.system('pkg install ssh')
 os.system('pkg install curl')
 
 print ("Penginstalan selesai")
-print ("Silahkan kembali ke tool Apmz")
+print ("Silahkan kembali ke tool Dawuk")
 print ("Dengan cara menulis sh lord.sh")
 
 exit()
